@@ -1,6 +1,6 @@
 # Shortify
 
-A transformer-based text summarization implemented in Python. 
+A transformer-based abstractive text summarization implemented in Python. 
 
 ### Analyzing the summarizations
 
